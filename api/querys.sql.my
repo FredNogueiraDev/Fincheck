@@ -1,0 +1,12 @@
+docker start pg
+
+docker exec -it pg bash 
+
+psql -U root
+
+\l 
+
+--------------------
+
+CREATE DATABASE fincheck;
+
