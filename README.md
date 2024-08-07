@@ -4,6 +4,7 @@
 * ERD - Lucid
 * NEST Js
 * ORM - Prisma 
+* Validações - class-validator/validation-pipe
 
 ## To do (Fora do curso)
 * Criar CRUD de categorias
