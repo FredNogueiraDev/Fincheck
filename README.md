@@ -5,6 +5,7 @@
 * NEST Js
 * ORM - Prisma 
 * Validações - class-validator/validation-pipe
+* Criptografia - BCrypt
 
 ## To do (Fora do curso)
 * Criar CRUD de categorias
